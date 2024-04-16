@@ -51,8 +51,3 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MattiaAngelini.MattiaAngelini&left_color=coral&left_text=Views"  />
-</div>
-
-###
