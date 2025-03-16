@@ -2,6 +2,7 @@
 
 ###
 
+<h3>www.mattiaangelini.com</h3>
 <p align="left">- Graduated from the Boolean Tech Academy's, 600-hour Full Stack Development course.</p>
 
 ###
