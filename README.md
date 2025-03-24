@@ -2,8 +2,11 @@
 
 ###
 
-<h3>www.mattiaangelini.com</h3>
-<p align="left">- Graduated from the Boolean Tech Academy's, 600-hour Full Stack Development course.</p>
+<h4 align="left">www.mattiaangelini.com</h4>
+
+###
+
+<h4 align="left">- Graduated from the Boolean Tech Academy's, 700-hour Full Stack Development course.</h4>
 
 ###
 
@@ -58,8 +61,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattiaAngelini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattiaAngelini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MattiaAngelini&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MattiaAngelini&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MattiaAngelini&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
